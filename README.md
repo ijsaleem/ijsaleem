@@ -10,6 +10,11 @@ Previously a software intern at Spirit AeroSystems (now Boeing) at the Prestwick
 - Recently completed my BSc dissertation on LLM-based unit test generation: a 5×3 factorial study comparing prompt strategies across OpenAI, Anthropic, and Google models on 60 real-world repositories. Key finding: combined context-enrichment outperformed baselines, while context-learnt prompts underperformed plain prompts.
 - Open to graduate software engineering roles from summer 2026.
 
+### Projects I am working on 
+-ijazsaleem.com My personal website, created as a showcase to jighlight myprojects and web development skills
+-gamesnight.online Originally started as a family games night project to help stop cheating, it quickly spiralled now pulling ~1000+ monthly players and over 6000+ games played
+-grasscutter.info Created as a tool to see find the most efficent method of ensuring 100% coverage when cutting the grass. A chance to put ML concepts into practice 
+
 ### Tech
 
 **Languages** Python · Java · TypeScript · JavaScript · SQL · C
@@ -18,7 +23,6 @@ Previously a software intern at Spirit AeroSystems (now Boeing) at the Prestwick
 
 ### Contact
 
-- CV: [link to PDF]
 - LinkedIn: https://www.linkedin.com/in/ijaz-saleem/
 - Email: ijaz@saleem.live
 <!--
