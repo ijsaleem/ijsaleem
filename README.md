@@ -16,9 +16,9 @@ Previously a software intern at Spirit AeroSystems (now Boeing) at the Prestwick
 
 ### Tech
 
-**Languages** Python · Java · TypeScript · JavaScript · SQL · C
-**Frameworks** Django · React · PyQt6 · FastAPI
-**Infrastructure** Docker · PostgreSQL · Grafana · GitLab CI/CD · Linux
+**Languages** Python · Java · TypeScript · JavaScript · SQL · C <br> 
+**Frameworks** Django · React · PyQt6 · FastAPI <br> 
+**Infrastructure** Docker · PostgreSQL · Grafana · GitLab CI/CD · Linux <br> 
 
 ### Contact
 
