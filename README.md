@@ -1,5 +1,4 @@
-## Hi there 👋
-## Hi, I'm Ijaz
+## Hi, I'm Ijaz Saleem 👋
 
 Final-year Computer Science student at the University of Glasgow (graduating June 2026). I build full-stack applications, industrial software, and ML tooling.
 
@@ -11,9 +10,9 @@ Previously a software intern at Spirit AeroSystems (now Boeing) at the Prestwick
 - Open to graduate software engineering roles from summer 2026.
 
 ### Projects I am working on 
--ijazsaleem.com My personal website, created as a showcase to jighlight myprojects and web development skills
--gamesnight.online Originally started as a family games night project to help stop cheating, it quickly spiralled now pulling ~1000+ monthly players and over 6000+ games played
--grasscutter.info Created as a tool to see find the most efficent method of ensuring 100% coverage when cutting the grass. A chance to put ML concepts into practice 
+-[https://ijazsaleem.com](ijazsaleem.com) My personal website, created as a showcase to jighlight myprojects and web development skills
+-[https://gamesnight.online](Games Night) Originally started as a family games night project to help stop cheating, it quickly spiralled now pulling ~1000+ monthly players and over 6000+ games played
+-{https://grasscutter.info](GrassCutter) Created as a tool to see find the most efficent method of ensuring 100% coverage when cutting the grass. A chance to put ML concepts into practice 
 
 ### Tech
 
